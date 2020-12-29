@@ -42,3 +42,12 @@ DEMO
 - [x] Integration of firebase,react,node,mongodb,express
 
 
+## Upcoming Feature
+- [x] Facebook - Login/Signup.
+- [x] Use of reCAPTCHA - For blocking bots to signup.
+- [x] Use of avatars 
+- [x] Adding components - Teacher assignment submission and grading student for submitted assignment 
+- [x] Q/A Section for students
+
+
+
