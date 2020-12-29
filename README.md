@@ -29,3 +29,16 @@ DEMO
 - [x] Clients can also click on forget password button to reset its password.
 - [x] For reseting users password firebase auth strategy has been used.
 
+### Added Feature
+- [x] Use of toast notifications.
+- [x] Error notification if their is password mismatch while singing up, loging in and reseting password.
+- [x] Successful notification for signing in/signing out , updating and reseting the password.
+- [x] Use of Social Login - Google Login/Sigup 
+- [x] Use of Ant Design for Header Nav
+- [x] Use of firebase in front-end
+- [x] use of firebase-admin in backend
+- [x] use of cors
+- [x] use of mongodb
+- [x] Integration of firebase,react,node,mongodb,express
+
+
