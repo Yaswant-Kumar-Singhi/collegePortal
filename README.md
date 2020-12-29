@@ -12,3 +12,20 @@
 DEMO
 ```
 ![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/CollegePortalGIF.gif)
+
+
+### Features
+- [x] Signup users with unique emailID.
+- [x] Client side verification of emailID.
+- [x] Using firebase for verfication of email.
+- [x] Usig firebase for completing registration process and setting up password.
+- [x] Firebase acts as middleware for authenticity of users email.
+- [x] Client side verification of password pattern (minlength=6chars).
+- [x] Client gets a successful welcome email from the platform.
+- [x] Sign In using verified emailID.
+- [x] Client can update password after login.
+- [x] Client gets a successful email for updating the password.
+- [x] Client can reset the password after login.
+- [x] Clients can also click on forget password button to reset its password.
+- [x] For reseting users password firebase auth strategy has been used.
+
