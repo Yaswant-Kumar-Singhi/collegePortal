@@ -49,5 +49,34 @@ DEMO
 - [x] Adding components - Teacher assignment submission and grading student for submitted assignment 
 - [x] Q/A Section for students
 
+### Home Page  
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/Homepage.JPG)
+
+### Register Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/Register.JPG)
+
+### Gmail Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/Email%20Verify.JPG)
+
+### Email Verfication Link Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/Email%20Link.JPG)
+
+### Register Complete Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/registerComplete.JPG)
+
+### Login Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/PasswordCheck.JPG)
+
+### User Dashboard Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/UserDashboard.JPG)
+
+### Password Update Page 
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/Password%20Update.JPG)
+
+### Admin Dashboard Page
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/AdminDashboard.JPG)
+
+### MongoDB Database Page
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/MongoDB.JPG)
 
 
