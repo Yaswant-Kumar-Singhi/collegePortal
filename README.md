@@ -11,3 +11,4 @@
 ```
 DEMO
 ```
+![](https://github.com/Yaswant-Kumar-Singhi/collegePortal/blob/main/Screenshot/CollegePortalGIF.gif)
