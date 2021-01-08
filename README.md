@@ -10,7 +10,7 @@
 ```
 
 Before cloning or downloading please go through each and every directory because 
-there are certain steps that needs to be done before you run your application
+there are certain steps that needs to be done before you run my  application
 
 
 ```
